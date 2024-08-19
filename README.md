@@ -32,6 +32,6 @@ With the Space Token standard, the transferring process is the same, except **th
 
 ### Technical details
 
-The [demo site](https://spacetoken.aeylabs.com) allows you to interact with any Space Token smart contract as well as wrapping/unwrapping native tokens into their Space Token version. To mint your own standalone Space Tokens or wrap a native/ERC20 token into a Space Token, you can use the interactive CLI menu included in the [repo](https://github.com), explained in `minting.md`. Currently only the native wrapping version is available in the CLI, but more experienced users can deploy their own versions of the standalone or wrapped ERC20 Space Tokens by deploying the contracts found in the repo and interacting with them directly.
+The [demo site](https://spacetoken.aeylabs.com) allows you to interact with any Space Token smart contract as well as wrapping/unwrapping native tokens into their Space Token version. To mint your own standalone Space Tokens or wrap a native/ERC20 token into a Space Token, you can use the interactive CLI menu included in the [repo](https://github.com/pdemicheli/spacetoken), explained in `minting.md`. Currently only the native wrapping version is available in the CLI, but more experienced users can deploy their own versions of the standalone or wrapped ERC20 Space Tokens by deploying the contracts found in the repo and interacting with them directly.
 
 Feel free to reach out to me on Telegram @pdemik with any suggestions or questions.
