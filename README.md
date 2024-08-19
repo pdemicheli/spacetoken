@@ -26,9 +26,9 @@ With the Space Token standard, the transferring process is the same, except **th
 
 - [Space Token Demo Site](https://spacetoken.aeylabs.com) - try minting some SpaceETH (`0xC7a65C034361e561083A41eC42a4f942cCb769eD` on ETH Sepolia)
 
-- [SpaceETH Demo Video](https://youtube.com)
+- [SpaceETH Demo Video](https://drive.google.com/file/d/1dqIuZ8c5Fz3wvRrDg1phcKjotkI0IZxB)
 
-- [GitHub Repo](https://github.com)
+- [GitHub Repo](https://github.com/pdemicheli/spacetoken)
 
 ### Technical details
 
